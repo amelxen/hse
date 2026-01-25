@@ -1,0 +1,15 @@
+# Users snapshot (v1)
+# format: USER: <id>; name=<name>; email=<email>; role=<role>
+
+USER: u_1001; name=anna;   email=anna.k@example.com;        role=admin
+USER: u_1002; name=boris;  email=boris.dev@example.org;     role=editor
+USER: u_1003; name=chen;   email=chen42@example.net;        role=viewer
+USER: u_1004; name=dina;   email=dina.pm@example.com;       role=editor
+USER: u_1005; name=eric;   email=eric99@example.org;        role=viewer
+USER: u_1006; name=fatima; email=fatima.hr@example.net;     role=admin
+USER: u_1007; name=georg;  email=georg.it@example.com;      role=viewer
+USER: u_1008; name=helen;  email=helen.qa@example.org;      role=editor
+USER: u_1009; name=ivan;   email=ivan.ops@example.net;      role=viewer
+USER: u_1010; name=julia;  email=julia.ds@example.com;      role=admin
+
+# End of file

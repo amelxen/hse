@@ -1,0 +1,38 @@
+# Incident log (v2)
+# Each incident is a block. Keep quotes in msg.
+
+--- INCIDENT START ---
+id: INC-7K3
+when: 2026-01-24T22:10Z
+msg: "Timeout while fetching /api/v1/rates"
+--- INCIDENT END ---
+
+--- INCIDENT START ---
+id: INC-9Q1
+when: 2026-01-25T09:02Z
+msg: "DB pool exhausted"
+--- INCIDENT END ---
+
+--- INCIDENT START ---
+id: INC-A1Z
+when: 2026-01-25T11:40Z
+msg: "502 from upstream: auth-service"
+--- INCIDENT END ---
+
+--- INCIDENT START ---
+id: INC-4P0
+when: 2026-01-25T12:15Z
+msg: "Disk space low on node-03"
+--- INCIDENT END ---
+
+--- INCIDENT START ---
+id: INC-T77
+when: 2026-01-25T12:44Z
+msg: "Retry storm detected (client=mobile)"
+--- INCIDENT END ---
+
+--- INCIDENT START ---
+id: INC-3M8
+when: 2026-01-25T13:05Z
+msg: "Cache miss spike on /feed"
+--- INCIDENT END ---
